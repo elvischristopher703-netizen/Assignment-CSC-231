@@ -1,4 +1,4 @@
-# Assignment-CSC-231
+# Assignment-CSC-301
 public class SumAndAverage {
     public static void main(String[] args) {
         // Declare five integers (primitive types)
